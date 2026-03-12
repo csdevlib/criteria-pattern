@@ -1,2 +1,2 @@
-# criteria-pattern
-A Simple Criteria Pattern Implementation
+# BeyondNet.Patterns.Criteria
+A  simple implementation of Criteria Pattern
